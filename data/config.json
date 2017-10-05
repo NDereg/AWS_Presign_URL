@@ -1,0 +1,8 @@
+{
+    "default": {
+        "from": "example@example.com",
+        "to": "example@example.com",
+        "subj": "Presigned URL from AWS",
+        "expire": "432000"
+    }
+}
